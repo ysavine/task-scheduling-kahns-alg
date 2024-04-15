@@ -34,7 +34,11 @@ class Solution:
         
         # Return the maximum time taken to complete all tasks
         return max(t)
+
+# Define the number of tasks
 n = 9
+
+# Define the amount of time per task
 time = [1.5, 4, 1, 1.25, 2, 2.5, 1, 2, 1.5]
 
 # Define the dependencies between tasks
