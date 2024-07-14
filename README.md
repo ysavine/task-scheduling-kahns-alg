@@ -1,5 +1,5 @@
 # task-scheduling-kahns-alg
-Motivating Question: How can graph theory algorithms be applied in the context of project management?
+# How can graph theory algorithms be applied in the context of project management?
 
 Kahns Algorithm: https://www.geeksforgeeks.org/kahns-algorithm-in-python/#:~:text=Kahn's%20Algorithm%20is%20used%20for,them%20in%20a%20topological%20order.
 
